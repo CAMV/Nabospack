@@ -1,0 +1,67 @@
+[ ] Reducir numero de usos/durabilidad para la pega
+[ ] Usar recina para hacer la pega
+[ ] Complicar la fabricacion de pega, que sea un liquido
+
+[ ] Usar mas recetas de 4x4
+[ ] Hacer que todas las recetas de cortar se puedan hacer solo con el cutter del create + filtros
+[ ] Eliminar el cobble stone que agrega el natural progresion
+[ ] Ocultar tipos de piedras desactivados
+    - quark:deepslate
+
+[ ] Agregar martillos para romber ore en bloques mas pequeños
+
+[ ] Agregar ore item al zinc como los demas metales
+
+[ ] Agregar cemento como material intermedio para el uso de bricks
+
+[ ] Agregar ciertas recetas que solo se cnsigan tradeando/explorando. Recetas de procesos industriales
+
+[ ] Cambiar iconos de los pebbles
+
+[ ] Quitar algunas opciones de ladrillo/building blocks
+    - prismarine
+    - snaail
+    - terracota colored
+    - eumus
+    - quark:snow
+    - quark:deepslate
+    - quark:magma
+
+[ ] Agregar ladrillos para
+    - diorite
+    - andesita
+    - granito
+    - stone
+    - blackstone
+    - basalt
+    - darkerdepths:limestone
+    - darkerdepths:aridrock
+    - darkerdepths:shale
+    - darkerdepths:grimestone
+
+[ ] Hacer que solo se pueda colorear con inks y reworkear para que sea a traves de un caldero o un mixer
+    - white
+    - orange
+    - magenta
+    - light blue
+    - yellow
+    - lime
+    - pink
+    - gray
+    - light gray
+    - cyan
+    - purple
+    - blue
+    - brown
+    - green
+    - red
+    - black
+
+
+[ ] Remover los planks de colores de quark de JEI y de los tags
+[ ] Unificar las velas para que las etsandares usen la del caves & cliffs
+[ ] Hacer que las lamparas se crfatean si usar antorchas
+################################################################################################
+
+[x] Eliminar las cuerdas de darker dephts y quark
+[x] Eliminar redundancia de cuchillos entre el nether agriculture y el aquaculture, dejando el de aquaculture
