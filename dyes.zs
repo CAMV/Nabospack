@@ -80,7 +80,7 @@ craftingTable.removeByRegex(".*bed.*");
 craftingTable.removeByRegex(".*books/.*");
 craftingTable.removeByRegex(".*_bolloom.*");
 craftingTable.removeByRegex(".*_seat_from_other_seat.*");
-craftingTable.removeByRegex(".*_toolbox_from_other_toolbox.*");
+craftingTable.removeByRegex(".*_toolbox_from_main_toolbox.*");
 
 # dye
 for i, color in colors
