@@ -1,0 +1,6 @@
+<equipmentslottype:chest>
+<equipmentslottype:feet>
+<equipmentslottype:head>
+<equipmentslottype:legs>
+<equipmentslottype:mainhand>
+<equipmentslottype:offhand>

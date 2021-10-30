@@ -1,0 +1,14 @@
+
+{
+  "variants":
+  {
+    "dense=false":
+    {
+      "model": "osv:block/minecraft/cavesandcliffs_copper_ore_granite"
+    },
+    "dense=true":
+    {
+      "model": "osv:block/minecraft/dense_cavesandcliffs_copper_ore_granite"
+    }
+  }
+}

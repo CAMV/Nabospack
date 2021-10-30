@@ -1,0 +1,49 @@
+ # Generated data. Some values are estimated.
+ # See TUTORIAL.hjson for more info.
+{
+  name: cavesandcliffs_copper_ore
+  mod: cavesandcliffs
+  block: {
+    location: cavesandcliffs:copper_ore
+    material: ROCK
+    soundType: STONE
+    light: 0
+    resistance: 3
+    hardness: 3
+    ticksRandomly: false
+    slipperiness: 0.6000000238418579
+    speedFactor: 1
+    jumpFactor: 1
+    isSolid: true
+    level: -1
+    tool: pickaxe
+    variableOpacity: false
+    requiresTool: true
+    xp: 0
+  }
+  texture: {
+    original: cavesandcliffs:block/copper_ore
+  }
+  recipe: {
+    result: cavesandcliffs:copper_ingot
+    xp: 0.699999988079071
+    time: 100
+  }
+  loot: cavesandcliffs:blocks/copper_ore
+  gen: [
+    {
+      height: [ 0, 64 ]
+      count: 10
+      size: 8
+      chance: 1
+      stage: UNDERGROUND_DECORATION
+      blacklistBiomes: true
+      biomes: {
+        types: [
+          NETHER
+		  THE_END
+        ]
+      }
+    }
+  ]
+}

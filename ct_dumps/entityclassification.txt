@@ -1,0 +1,8 @@
+<entityclassification:ambient>
+<entityclassification:creature>
+<entityclassification:endergetic:end_creature>
+<entityclassification:misc>
+<entityclassification:monster>
+<entityclassification:underground_water_creature>
+<entityclassification:water_ambient>
+<entityclassification:water_creature>
